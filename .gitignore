@@ -1,0 +1,38 @@
+# Binaries
+/bin/
+/bin/*
+/dist/
+/dist/*
+/out/
+/out/*
+/build/
+/build/*
+
+# Dependency directories
+/vendor/
+
+# Go workspace files
+*.mod
+*.sum
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+
+# Test binary, output of `go test`
+*.test
+
+# Coverage files
+*.cov
+
+# Other files
+*.log
+*.sqlite
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
